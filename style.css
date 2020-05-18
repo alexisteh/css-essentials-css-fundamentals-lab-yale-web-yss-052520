@@ -25,5 +25,8 @@ figcaption {
   font-size: 12px;
 }
 
-
+#navigation p {
+  text-align: center;
+  width: 900px; 
+}
 
